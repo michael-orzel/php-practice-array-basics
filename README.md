@@ -1,2 +1,2 @@
-# php-practice-array-basics
+# [PHP Practice] - Array Basics
 Basics of arrays in PHP.
